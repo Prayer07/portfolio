@@ -15,7 +15,7 @@ const languages =  [
     },
     {
         id: 4,
-        name: "Typescript",
+        name: "Python",
     },
 ]
 

@@ -11,17 +11,17 @@ const projects = [
     },
     {
         id: 2,
-        name: "...",
-        details: "Used Next.js, javascript and mongoDB",
+        name: "Bank",
+        details: "Used Next.js, javascript and mongoDB to create a bank app where u can also chat",
         github: "https://github.com/Prayer07/BankChat",
-        deploy: "...",
+        deploy: "https://banky-neon.vercel.app/",
     },
     {
         id: 3,
         name: "My Portfolio",
         details: "Used Next.js and typescript",
-        github: "...",
-        deploy: "...",
+        github: "https://github.com/Prayer07/portfolio",
+        deploy: "https://ezenwa-portfolio.vercel.app/",
     },
 ]
 

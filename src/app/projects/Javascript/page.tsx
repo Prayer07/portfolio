@@ -11,18 +11,18 @@ const projects = [
     },
     {
         id: 2,
-        name: "...",
-        details: "...",
-        github: "...",
-        deploy: "...",
+        name: "Tic-tac-toe",
+        details: "Used html, css and javascript to create x and o 😂😂 ",
+        github: "https://github.com/Prayer07/tic-tac-toe",
+        deploy: "https://tic-tac-toe-beta-eight-97.vercel.app/",
     },
-    {
-        id: 3,
-        name: "...",
-        details: "...",
-        github: "...",
-        deploy: "...",
-    },
+    // {
+    //     id: 3,
+    //     name: "...",
+    //     details: "...",
+    //     github: "...",
+    //     deploy: "...",
+    // },
 ]
 
 export default function page() {
