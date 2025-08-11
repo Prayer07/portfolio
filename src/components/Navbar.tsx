@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav>
         <Link href={"/"}>Home</Link>
         <Link href={"/projects"}>Projects</Link>
-        {/* <Link href={"/#about"}>About</Link> */}
+        {/* <Link href={"#about"} scroll={false}>About</Link> */}
         <Link href={"/contact"}>Contact</Link>
     </nav>
     </div>
