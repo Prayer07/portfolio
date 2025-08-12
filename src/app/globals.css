@@ -1,4 +1,12 @@
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, sans-serif;
+}
+
 
 html {
   scroll-behavior: smooth;
@@ -98,4 +106,12 @@ button:hover{
 
 .contact{
   text-align: center;
+}
+
+.border{
+  background-color: hsl(0, 0%, 50%);
+}
+
+.bold{
+  font-weight: bold;
 }
