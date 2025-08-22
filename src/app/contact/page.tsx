@@ -48,9 +48,9 @@ export default function ContactPage() {
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
-        className="w-full max-w-lg"
+        className="w-full max-w-lg flex justify-center"
       >
-        <Card className="bg-gray-900 border-gray-800 shadow-xl rounded-2xl">
+        <Card className="bg-gray-900 border-gray-800 shadow-xl rounded-2xl w-full">
           <CardHeader>
             <CardTitle className="text-center text-yellow-400 text-3xl font-bold">
               Contact Me

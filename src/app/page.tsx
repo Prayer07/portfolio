@@ -62,7 +62,7 @@ export default function HomePage() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
           <Button asChild className="bg-yellow-400 text-black hover:bg-yellow-300 font-semibold rounded-xl px-6 py-3">
-            <Link href="#projects">See My Projects</Link>
+            <Link href="/projects">See My Projects</Link>
           </Button>
           {/* <Button asChild variant="outline" className="border-gray-600 text-gray-200 hover:bg-gray-800 px-6 py-3 rounded-xl">
             <Link href="#contact">Contact Me</Link>
