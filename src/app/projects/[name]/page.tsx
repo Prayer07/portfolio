@@ -11,8 +11,8 @@ const projects: Record<string, { title: string; desc: string; github:string; dep
     {
       title: "Clock-App",
       desc: "Used html, css and javascript to make a clock that displays the day, date, month, year and time",
-      github: "https://github.com/Prayer07/freestyle-clock",
-      deploy: "",
+      github: "https://github.com/Prayer07/typescriptClock",
+      deploy: "https://typescript-clock.vercel.app/",
     },
     {
       title: "Tic-tac-toe",
