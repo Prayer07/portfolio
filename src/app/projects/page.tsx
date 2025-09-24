@@ -130,7 +130,7 @@ export default function ProjectDetailsPage() {
         {/* Back Button */}
         <div className="mt-12 text-center">
           <Button asChild className="bg-yellow-400 text-black hover:bg-yellow-300 font-semibold rounded-xl px-6">
-            <Link href="/projects">← Back to Projects</Link>
+            <Link href="/">← Back </Link>
           </Button>
         </div>
       </div>
