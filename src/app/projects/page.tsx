@@ -66,7 +66,7 @@ const projects: ProjectProps[] = [
 
 export default function ProjectDetailsPage() {
   const { name } = useParams();
-  const projectList = projects || [];
+  const projectList = projects || []
 
   return (
     <section className="min-h-screen bg-gradient-to-b from-black via-gray-900 to-black text-gray-200 px-6 py-12">
