@@ -35,12 +35,12 @@ const projects: ProjectProps[] = [
       deploy: "http://ts-bank.vercel.app",
     },
 
-    // {
-    //   title: "Bank Chat",
-    //   desc: "Used Next.js, javascript and mongoDB to create a bank app where u can also chat",
-    //   github: "https://github.com/Prayer07/BankChat",
-    //   deploy: "https://banky-neon.vercel.app/",
-    // },
+    {
+      title: "Chat App",
+      desc: "Used React, javascript, express and mongoDB to create a chat app",
+      github: "https://github.com/Prayer07/chat-app2",
+      deploy: "https://chat-app4-m9d3.onrender.com/",
+    },
 
     {
       title: "My Portfolio",
