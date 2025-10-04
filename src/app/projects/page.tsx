@@ -37,7 +37,7 @@ const projects: ProjectProps[] = [
 
     {
       title: "Safe Family App",
-      desc: "Used React-Native, typescript, mongoDB and expo",
+      desc: "Used React-Native, typescript, mongoDB, express.js and expo",
       github: "https://github.com/Prayer07/safe-family3",
       deploy: "https://expo.dev/accounts/prayer072/projects/safe-family/builds/e4f7e2eb-17a1-457e-a14e-e85e2fabee1d",
     },
