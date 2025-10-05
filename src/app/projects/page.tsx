@@ -52,7 +52,7 @@ const projects: ProjectProps[] = [
       stack: "Next.js, javascript",
       desc: "Creates an online store for my sister",
       github: "https://github.com/Prayer07/adaeze_web",
-      deploy: "https://adaeze_web.vercel.app",
+      deploy: "https://adaeze-web.vercel.app",
     },
 
     {
