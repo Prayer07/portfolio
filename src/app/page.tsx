@@ -56,7 +56,7 @@ export default function HomePage() {
           </strong> during my IT where I built fullstack apps with <br />
           <span className="text-gray-200">HTML, CSS, JavaScript, React, TypeScript, Next.js, Express.js, MongoDB</span>.  
           I guess you can call me a <span className="font-semibold">Fullstack Developer</span>.  
-          <br /> Not to flex 🤭 but I also know Python, Rust, Kotlin…  
+          <br /> Not to flex 🤭 but I also know React-Native, Python, Rust, Kotlin…  
           and I keep learning new languages just for fun — I <strong>really love to code</strong>.
         </p>
 
